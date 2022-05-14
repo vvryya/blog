@@ -1,5 +1,6 @@
 ---
-title: Posts
+# Display name
+title: Павлова Варвара 
 cms_exclude: true
 
 # View.

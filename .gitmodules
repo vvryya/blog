@@ -1,0 +1,8 @@
+[submodule "vvryya.github.io"]
+	path = vvryya.github.io
+	url = https://github.com/vvryya/vvryya.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/vvryya/vvryya.github.io.git
+	branch = main
