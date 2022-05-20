@@ -34,22 +34,30 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: obp
+    icon_pack: ai
+    link: https://www.elibrary.ru
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-
+    link: https://github.com/vvryya
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0001-7557-8315
+  - icon: mendeley
+    icon_pack: ai
+    link: https://www.mendeley.com
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Varvara-Pavlova
+  - icon: academia
+    icon_pack: ai
+    link: https://independent.academia.edu/VarvaraPavlova
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org/user/
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
@@ -65,5 +73,6 @@ highlight_name: true
 ---
 
 Родилась в городе Владивостоке. После окончания школы поступила в Российский Университет Дружбы Народов.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
