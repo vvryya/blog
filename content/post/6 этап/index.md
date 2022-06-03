@@ -9,7 +9,7 @@ summary: Подготовка индивидуального проекта/Pers
 projects: []
 
 # Date published
-date: '2022-06-13T00:00:00Z'
+date: '2022-06-03T00:00:00Z'
 
 # Date updated
 lastmod: '2022-06-03T00:00:00Z'
