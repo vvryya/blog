@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: ученица школы
-    company: Гимназия №2
+  - title: ученица школы/school student
+    company: Гимназия №2/Gymnasium №2
     company_url: ''
     company_logo: org-g
-    location: Владивосток
+    location: Владивосток/Vladivostok
     date_start: '2019-09-01'
     date_end: '2022-06-28'
     description: |2-
         
 
-  - title: студентка РУДН
-    company: РУДН
+  - title: студентка РУДН/PFUR student
+    company: РУДН/PFUR
     company_url: ''
     company_logo: org-u
     location: Москва
     date_start: '2021-09-01'
     date_end: ''
-    description: Изучаю прикладную математику и информатику.
+    description: Изучаю прикладную математику и информатику./Studying applied mathematics and informatics.
 
 design:
   columns: '2'

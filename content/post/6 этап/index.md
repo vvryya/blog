@@ -1,5 +1,5 @@
 ---
-title: Третья неделя/3rd week
+title: Шестая неделя/6th week
 subtitle: Подготовка индивидуального проекта/Personal project
 
 # Summary for listings and search engines
@@ -9,10 +9,10 @@ summary: Подготовка индивидуального проекта/Pers
 projects: []
 
 # Date published
-date: '2022-05-14T00:00:00Z'
+date: '2022-06-13T00:00:00Z'
 
 # Date updated
-lastmod: '2022-05-14T00:00:00Z'
+lastmod: '2022-06-03T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -45,14 +45,17 @@ This week's changes.
 
 ## Что сделано
 
-- Добавлена информация о навыках
-- Добавлена информация о достижениях
-- Добавлена информация об опыте
-- Сделан пост по прошедшей неделе
-- Опубликован пост на тему: язык разметки Markdown.
+ Размещен двуязычный сайт на Github.
+- Сделана поддержка английского и русского языков.
+- Размещены элементы сайта на обоих языках.
+- Размещен контент на обоих языках.
+- Сделан пост по прошедшей неделе.
+- Добавлен пост на тему по выбору (на двух языках).
 
-- Added information about skills
-- Added information about achievements
-- Added information about experience
-- Made a post about last week
-- Published a post on the topic: Markdown language.
+Hosted bilingual site on Github.
+- Made support for English and Russian languages.
+- Placed elements of the site in both languages.
+- Posted content in both languages.
+- Made a post about last week.
+- Added a post on a topic of your choice (in two languages).
+

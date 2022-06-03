@@ -1,32 +1,33 @@
 ---
 # Display name
-title: Павлова Варвара
+title: Varvara Pavlova/Варвара Павлова
+
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: студент
+role: student/студент
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Российский Университет Дружбы Народов
+  - name: Российский Университет Дружбы Народов/People's Friendship University of Russia
     url: https://www.rudn.ru
 # Short bio (displayed in user profile at end of posts)
 bio: Обучаюсь в РУДН на направлении прикладная математика и информатика.
 
 # Interests to show in About widget
 interests:
-  - программирование
-  - математический анализ
-  - математическая логика
-  - дискретная математика
+  - программирование/programming
+  - математический анализ/calculus
+  - математическая логика/mathematical logic
+  - дискретная математика/discrete mathematics
 
 # Education to show in About widget
 education:
   courses:
-    - course: 1 курс
-      institution: РУДН, Москва
+    - course: 1 курс/1 year
+      institution: РУДН, Москва/PFUR, Moscow
       year: 2022
 
 # Social/Academic Networking
@@ -73,6 +74,6 @@ highlight_name: true
 ---
 
 Родилась в городе Владивостоке. После окончания школы поступила в Российский Университет Дружбы Народов.
-
+Was born in Vladivostok. After school graduation got into People's Friendship University of Russia.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

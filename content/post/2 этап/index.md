@@ -1,9 +1,9 @@
 ---
-title: Вторая неделя 
-subtitle: Подготовка индивидуального проекта
+title: Вторая неделя/2nd week
+subtitle: Подготовка индивидуального проекта/Personal project
 
 # Summary for listings and search engines
-summary: Подготовка индивидуального проекта
+summary: Подготовка индивидуального проекта/Personal project
 
 # Link this post with a project
 projects: []
@@ -41,6 +41,7 @@ categories:
 ## Overview
 
 Изменения, внесенные на этой неделе.
+This week's changes.
 
 ## Что сделано
 
@@ -51,4 +52,9 @@ categories:
 - Сделан пост по прошедшей неделе
 - Опубликован пост на тему: управление версиями. Git.
 
-
+- Added biography
+- Added information about interests
+- Added information about education
+- Posted photo
+- Made a post about last week
+- Published a post on the topic: version control. Git.

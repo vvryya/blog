@@ -1,9 +1,9 @@
 ---
-title: Четвертая неделя
-subtitle: Подготовка индивидуального проекта
+title: Четвертая неделя/4th week
+subtitle: Подготовка индивидуального проекта/Personal project
 
 # Summary for listings and search engines
-summary: Подготовка индивидуального проекта
+summary: Подготовка индивидуального проекта/Personal project
 
 # Link this post with a project
 projects: []
@@ -41,6 +41,7 @@ categories:
 ## Overview
 
 Изменения, внесенные на этой неделе.
+This week's changes.
 
 ## Что сделано
 
@@ -62,3 +63,20 @@ categories:
    - Создание презентаций.
    - Работа с библиографией.
 
+1. Signed up on the relevant resources and posted links to them on the site:
+
+   - eLibrary: https://elibrary.ru/;
+   - Google Scholar: https://scholar.google.com/;
+   - ORCID : https://orcid.org/;
+   - Mendeley : https://www.mendeley.com/;
+   - ResearchGate : https://www.researchgate.net/;
+   - Academia.edu : https://www.academia.edu/;
+   - arXiv : https://arxiv.org/;
+   - github : https://github.com/.
+
+2. Made a post on the past week.
+3. Added a post on a topic of your choice:
+
+   - Making a report.
+   - Creation of presentations.
+   - Working with bibliography.
